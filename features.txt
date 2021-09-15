@@ -1,0 +1,16 @@
+Features:
+- Supports both audio and video files.
+- Control playback rate of the media.
+- Volume boost support for a better experience.
+- Support for background audio/video playback.
+- Support for fullscreen media playback.
+- Use available controls to control the playback of the media.
+- Lightweight app.
+- Requires less storage and memory.
+
+Further Improvements
+- Picture in Picture(PiP) mode available.
+- External subtitle support.
+- Cropping support to enhance your experience.
+- Select your favorite audio track.
+- Configure aspect ratio for a better experience.
